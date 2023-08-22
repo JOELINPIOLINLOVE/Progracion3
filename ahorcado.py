@@ -1,5 +1,6 @@
-print("°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
-print("Bienvenido al juego del ahorcado")
-print("°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°")
+def jugar_ahorcado():
+  print('================================')
+  print('Bienvenido al Juego del Ahorcado')
+  print('================================')
 
-print("Fin del juego")
+  print("Fin del Juego")
